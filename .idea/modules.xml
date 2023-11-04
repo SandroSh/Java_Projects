@@ -4,10 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array Games/Array Games.iml" filepath="$PROJECT_DIR$/Array Games/Array Games.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car Park/Car Park.iml" filepath="$PROJECT_DIR$/Car Park/Car Park.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Counting Brackets/Counting Brackets.iml" filepath="$PROJECT_DIR$/Counting Brackets/Counting Brackets.iml" />
       <module fileurl="file://$PROJECT_DIR$/FOP Projects.iml" filepath="$PROJECT_DIR$/FOP Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phone Book/Phone Book.iml" filepath="$PROJECT_DIR$/Phone Book/Phone Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pingu And Fish/Pingu And Fish.iml" filepath="$PROJECT_DIR$/Pingu And Fish/Pingu And Fish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spotijy/Spotijy.iml" filepath="$PROJECT_DIR$/Spotijy/Spotijy.iml" />
     </modules>
   </component>
 </project>
